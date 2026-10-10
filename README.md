@@ -33,6 +33,33 @@ El sistema fue diseñado manteniendo trazabilidad, reglas de negocio, control de
 
 ---
 
+## 🖼️ Vista del sistema
+
+> Las capturas corresponden a una instancia local de demostración y utilizan datos ficticios preparados exclusivamente para el showcase.
+
+### Odontograma clínico
+
+[![Odontograma clínico de DENTOKLIN](docs/screenshots/01-odontograma.webp)](docs/screenshots/01-odontograma.webp)
+
+El odontograma permite registrar el estado clínico por pieza y superficie, visualizar diferentes condiciones odontológicas y conservar versiones históricas para trazabilidad.
+
+| Historia clínica | Plan de tratamiento |
+| --- | --- |
+| [![Historia clínica](docs/screenshots/02-historia-clinica.webp)](docs/screenshots/02-historia-clinica.webp) | [![Plan de tratamiento](docs/screenshots/03-plan-tratamiento.webp)](docs/screenshots/03-plan-tratamiento.webp) |
+| Antecedentes, anamnesis y evoluciones clínicas con trazabilidad profesional. | Procedimientos organizados por fases, pieza dental, estado e importes. |
+
+| Presupuestos y descuentos | Agenda clínica |
+| --- | --- |
+| [![Presupuesto](docs/screenshots/04-presupuesto.webp)](docs/screenshots/04-presupuesto.webp) | [![Agenda](docs/screenshots/05-agenda.webp)](docs/screenshots/05-agenda.webp) |
+| Presupuestos derivados de planes de tratamiento, control de descuentos y estados. | Programación de citas, profesional asignado y seguimiento del estado de atención. |
+
+| Gestión de pacientes | Configuración y usuarios |
+| --- | --- |
+| [![Pacientes](docs/screenshots/06-pacientes.webp)](docs/screenshots/06-pacientes.webp) | [![Configuración](docs/screenshots/07-configuracion.webp)](docs/screenshots/07-configuracion.webp) |
+| Registro, búsqueda y administración centralizada de pacientes. | Usuarios, roles, sedes, permisos y administración del sistema. |
+
+---
+
 ## 🧰 Stack tecnológico
 
 ### Frontend
@@ -179,7 +206,7 @@ El proyecto continúa evolucionando y se utiliza también como experiencia prác
 
 ## 🎯 Objetivo del showcase
 
-Este repositorio tiene como finalidad presentar DENTOKLIN a reclutadores y equipos técnicos sin publicar el repositorio privado de producción/desarrollo.
+Este repositorio tiene como finalidad presentar DENTOKLIN a reclutadores y equipos técnicos sin publicar el repositorio privado del proyecto.
 
 Aquí se documentan las decisiones técnicas y las capacidades principales del sistema de forma segura.
 
